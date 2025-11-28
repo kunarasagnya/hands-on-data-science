@@ -58,5 +58,5 @@ This repository will be **regularly updated** as I learn more topics and build n
 
 ---
 
-## 🤝 Contributions  
+## Contributions  
 This is my personal learning repo, but suggestions are always welcome.
